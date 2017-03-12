@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 I'm just playing along.
 Lol
 This is fun. 
+=======
+I'm just playing along / changing this file.
+>>>>>>> 2e0959ab08bdda24b762f0885fd0989d350a1965
